@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-hashmaps2
+quiz2
 
 intro1
 intro2
@@ -46,3 +46,5 @@ modules1
 modules2
 modules3
 hashmaps1
+hashmaps2
+hashmaps3
