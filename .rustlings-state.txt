@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-macros4
+clippy1
 
 intro1
 intro2
@@ -87,3 +87,4 @@ threads3
 macros1
 macros2
 macros3
+macros4
